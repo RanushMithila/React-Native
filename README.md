@@ -8,15 +8,8 @@ This is my First React Native App
 
 ## Examples
 
+
 ```
-
-//console.log("App executed");
-  //const handlePress = () => console.log("Text Press Outside Function!!!!!");
-
-  //console.log(require('./assets/icon.png')); <----- This return 3 thats mean
-  // if I want to add ./assets/icon.png that image I can call it simplly 3
-
-  /*
       Image
 
     <Image /> - if I don't add any extra word between image tag
@@ -63,7 +56,15 @@ This is my First React Native App
         }} />
 
       </TouchableWithoutFeedback>
-  */
+```
+
+```
+
+//console.log("App executed");
+  //const handlePress = () => console.log("Text Press Outside Function!!!!!");
+
+  //console.log(require('./assets/icon.png')); <----- This return 3 thats mean
+  // if I want to add ./assets/icon.png that image I can call it simplly 3
 
 
 import React, { useState } from 'expo-status-bar';
