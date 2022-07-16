@@ -2,6 +2,10 @@
 
 This is my First React Native App
 
+
+## Language
+![react logo](https://skills.thijs.gg/icons?i=react)
+
 ## Examples
 
 ```
